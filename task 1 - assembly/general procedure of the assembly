@@ -1,0 +1,10 @@
+steps that i used to assemble the robotics arm are:
+- Firstly, open any CAD software - i used tinkercad - and open an assembly containing all the parts
+- secondly, put the base down as the first thing in the assembly
+- thirdly, put the waist above the base in a way that it cover the hole of the base
+- fourthly, attach the first arm to the waist by installing a screw in the holes 
+- fifthly, connect the second arm to the first
+- sixthly, attach the end-effector to the second arm
+
+
+along the way don't forget to put the motors in the squared voids and to connect the screws in the holes
